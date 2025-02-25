@@ -1,0 +1,27 @@
+@media only screen and (max-width: 768px){
+
+    .wraper{
+        width: 100%;
+    }
+
+    .buttons{
+        display: grid;
+        margin-top: 30px;
+        
+    }
+    #jokeButton{
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    .jokeDisplay{
+        width: 93%;
+        margin: 0;
+        padding: 10px;
+    }
+
+    .title{
+        color:rgb(39, 53, 48);
+    }
+}
+
